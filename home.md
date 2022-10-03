@@ -7,15 +7,11 @@
   
 <img src="IMG_8632.jpg" alt="Coppermine" width="400" height="500" >
   
-<font size="-1">  
-  
-Unknown lake in the Upper Coppermine River Basin, September 2019, Anna Coles.
-
-<font size="+1">
+<font size="-1"> Unknown lake in the Upper Coppermine River Basin, September 2019, Anna Coles.
   
 <div align="left">
   
-**Student**: Dylan Deck
+<font size="+1"> **Student**: Dylan Deck
 
 **Partner**: Anna Coles, Ph.D., Northwest Territories Cumulative Impact Monitoring Program
 
