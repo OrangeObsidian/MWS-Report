@@ -5,7 +5,7 @@
 
 <div align="center">
   
-<img src="IMG_8632.jpg" alt="Coppermine" width="400" height="500" >
+<img src="IMG_8632.jpg" alt="Coppermine" width="500" height="600" >
   
 <font size="-1"> Unknown lake in the Upper Coppermine River Basin, September 2019, Anna Coles.
   
