@@ -17,40 +17,40 @@
 
 [Executive summary](execsum.md)
 
-[Introduction](intro.html)
+[Introduction](intro.md)
 
-[Study Region](site.html)
+[Study Region](site.md)
 
-[Methodology](Methodology.html)
+[Methodology](Methodology.md)
 
 [1.0. Chapter 1 - Literature review](Chapter1.md) 
 
-[2.0 Chapter 2 - Baseline analysis](Chapter2.html)
+[2.0 Chapter 2 - Baseline analysis](Chapter2.md)
 
-[3.0 Chapter 3 - Cumulative Effect Indexing Tool](Chapter3.html)
+[3.0 Chapter 3 - Cumulative Effect Indexing Tool](Chapter3.md)
 
-[Summary of findings](findings.html)
+[Summary of findings](findings.md)
 
-[Towards a solution](solution.html)
+[Towards a solution](solution.md)
 
-[References](references.html)
+[References](references.md)
 
-[Appendix A](appendixA.html)
+[Appendix A](appendixA.md)
 
-[Appendix B1](appendixB1.html)
+[Appendix B1](appendixB1.md)
 
-[Appendix B2](appendixB2.html)
+[Appendix B2](appendixB2.md)
 
-[Appendix B3](appendixB3.html)
+[Appendix B3](appendixB3.md)
 
-[Appendix B4](appendixB4.html)
+[Appendix B4](appendixB4.md)
 
-[Appendix B5](appendixB5.html)
+[Appendix B5](appendixB5.md)
 
 ## Acknowledgements
 
 I wish to express my deepest gratitude to Anna Coles, Dion Kelly and staff from the Northwest Territories Cumulative Impact Monitoring Program in the Government of the Northwest Territories, and Andrew Ireson from the Global Institute of Water Security, University of Saskatchewan, for their continued support and expert knowledge. This project was funded by the Northwest Territories Cumulative Impact Monitoring Program (NWT CIMP).
 
-<img src="IMG_8632.jpg" alt="Coppermine">
+<img src="IMG_8632.jpg" alt="Coppermine" width="400" height="500" >
 
 Unknown lake in the Upper Coppermine River Basin, September 2019, Anna Coles.
