@@ -3,6 +3,14 @@
 
 # EXPLORING CUMULATIVE IMPACTS TO WATER QUALITY IN THE UPPER COPPERMINE RIVER BASIN, NWT
 
+<div align="center">
+  
+<img src="IMG_8632.jpg" alt="Coppermine" width="400" height="500" >
+    
+Unknown lake in the Upper Coppermine River Basin, September 2019, Anna Coles.
+
+<div align="left">
+  
 **Student**: Dylan Deck
 
 **Partner**: Anna Coles, Ph.D., Northwest Territories Cumulative Impact Monitoring Program
@@ -51,7 +59,4 @@
 
 I wish to express my deepest gratitude to Anna Coles, Dion Kelly and staff from the Northwest Territories Cumulative Impact Monitoring Program in the Government of the Northwest Territories, and Andrew Ireson from the Global Institute of Water Security, University of Saskatchewan, for their continued support and expert knowledge. This project was funded by the Northwest Territories Cumulative Impact Monitoring Program (NWT CIMP).
 
-<div align="center">
-<img src="IMG_8632.jpg" alt="Coppermine" width="400" height="500" >
 
-Unknown lake in the Upper Coppermine River Basin, September 2019, Anna Coles.
