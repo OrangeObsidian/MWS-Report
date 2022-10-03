@@ -6,9 +6,13 @@
 <div align="center">
   
 <img src="IMG_8632.jpg" alt="Coppermine" width="400" height="500" >
-    
+  
+<font size ="-1">  
+  
 Unknown lake in the Upper Coppermine River Basin, September 2019, Anna Coles.
 
+<font size ="+1">
+  
 <div align="left">
   
 **Student**: Dylan Deck
@@ -21,6 +25,9 @@ Unknown lake in the Upper Coppermine River Basin, September 2019, Anna Coles.
 
 *A project report submitted in partial fulfilment for the Masters in Water Security degree*
 
+## Acknowledgements
+
+I wish to express my deepest gratitude to Anna Coles, Dion Kelly and staff from the Northwest Territories Cumulative Impact Monitoring Program in the Government of the Northwest Territories, and Andrew Ireson from the Global Institute of Water Security, University of Saskatchewan, for their continued support and expert knowledge. This project was funded by the Northwest Territories Cumulative Impact Monitoring Program (NWT CIMP).
 
 
 [Executive summary](execsum.md)
@@ -55,8 +62,5 @@ Unknown lake in the Upper Coppermine River Basin, September 2019, Anna Coles.
 
 [Appendix B5](appendixB5.md)
 
-## Acknowledgements
-
-I wish to express my deepest gratitude to Anna Coles, Dion Kelly and staff from the Northwest Territories Cumulative Impact Monitoring Program in the Government of the Northwest Territories, and Andrew Ireson from the Global Institute of Water Security, University of Saskatchewan, for their continued support and expert knowledge. This project was funded by the Northwest Territories Cumulative Impact Monitoring Program (NWT CIMP).
 
 
