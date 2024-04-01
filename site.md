@@ -26,7 +26,7 @@ One of the most significant natural drivers of cumulative effects in the Upper C
 
 Water quality monitoring is critical to understanding and predicting the potential cumulative effects of these anthropogenic activities and natural disturbances.
 
-<img src="figures/subcatchments.jpeg" alt="Subcatchments">
+<img src="subcatchments.jpeg" alt="Subcatchments">
 
 <font size = "-2"> **Figure 1.b.** Sub-basins in the Upper Coppermine River basin. Courtesy of Anna Coles, NWT CIMP
 
