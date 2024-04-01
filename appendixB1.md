@@ -62,8 +62,34 @@ Black dots are outliers.
 median, and the green dot indicates the mean, for each lake. The whiskers represent 1.5 x the interquartile range +/- Q3 and Q1.
 Black dots are outliers.
 
-<img src="NBox.png">
+<img src="PBox.png">
   
-<font size="-1"> **Figure 24. Boxplot of nitrogen at Daring, Desteffany, Lac de Gras and Rocknest Lake.** The red line indicates the
-median, and the green dot indicates the mean, for each lake. The whiskers represent 1.5 x the interquartile range +/- Q3 and Q1.
-Black dots are outliers.
+<font size="-1"> **Figure 25. Boxplot of total phosphorus at Daring, Desteffany, Lac de Gras and Rocknest Lake.** The red line indicates the median, and the green dot indicates the mean, for each lake. The whiskers represent 1.5 x the interquartile range +/- Q3 and Q1. Black dots are outliers.
+
+<img src="AluminumBox.png">
+  
+<font size="-1"> **Figure 26. Boxplot of total aluminum at Daring, Desteffany, Lac de Gras and Rocknest Lake.** The red line indicates the median, and the green dot indicates the mean, for each lake. The whiskers represent 1.5 x the interquartile range +/- Q3 and Q1. Black dots are outliers.
+
+<img src="ArsenicBox.png">
+  
+<font size="-1"> **Figure 27. Boxplot of total arsenic at Daring, Desteffany, Lac de Gras and Rocknest Lake.** The red line indicates the median, and the green dot indicates the mean, for each lake. The whiskers represent 1.5 x the interquartile range +/- Q3 and Q1. Black dots are outliers. The green dashed line represents the CCME FAL WQL.
+
+<img src="BariumBox.png">
+  
+<font size="-1"> **Figure 28. Boxplot of total barium at Daring, Desteffany, Lac de Gras and Rocknest Lake.** The red line indicates the median, and the green dot indicates the mean, for each lake. The whiskers represent 1.5 x the interquartile range +/- Q3 and Q1. Black dots are outliers.
+
+<img src="CopperBox.png">
+  
+<font size="-1"> **Figure 29. Boxplot of total copper at Daring, Desteffany, Lac de Gras and Rocknest Lake.** The red line indicates the median, and the green dot indicates the mean, for each lake. The whiskers represent 1.5 x the interquartile range +/- Q3 and Q1. Black dots are outliers.
+
+<img src="LithiumBox.png">
+  
+<font size="-1"> **Figure 30. Boxplot of total lithium at Daring, Desteffany, Lac de Gras and Rocknest Lake.** The red line indicates the median, and the green dot indicates the mean, for each lake. The whiskers represent 1.5 x the interquartile range +/- Q3 and Q1. Black dots are outliers.
+
+<img src="MercuryBox.png">
+  
+<font size="-1"> **Figure 31. Boxplot of total mercury at Daring, Desteffany, Lac de Gras and Rocknest Lake.** The red line indicates the median, and the green dot indicates the mean, for each lake. The whiskers represent 1.5 x the interquartile range +/- Q3 and Q1. Black dots are outliers. The green dashed line represents the CCME FAL WQL.
+
+<img src="MolybdenumBox.png">
+  
+<font size="-1"> **Figure 32. Boxplot of total molybdenum at Daring, Desteffany, Lac de Gras and Rocknest Lake.** The red line indicates the median, and the green dot indicates the mean, for each lake. The whiskers represent 1.5 x the interquartile range +/- Q3 and Q1. Black dots are outliers . The green dashed line represents the CCME FAL WQL.
