@@ -1,7 +1,7 @@
 ---
 ---
 
-# Appendix B2 Baseline Statistics
+# Appendix B2: Baseline Statistics
 
 |                                                                                  | n   | %<DL | % Outliers | Min   | 5th   | Low(M2MAD) | Low(TIF) | Q1    | Mean  | Median | Q3    | High(M2MAD) | High(TIF) | 95th  | 98th  | Max    | SD    | CV     |
 | -------------------------------------------------------------------------------- | --- | ---- | ---------- | ----- | ----- | ---------- | -------- | ----- | ----- | ------ | ----- | ----------- | --------- | ----- | ----- | ------ | ----- | ------ |
