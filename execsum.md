@@ -15,4 +15,4 @@ Finally, the third chapter details the results of an evaluation of the cumulativ
 
 Ultimately, the analyses undertaken in this report aids the NWT CIMP in understanding cumulative impacts to water quality in the Upper Coppermine. The report identifies and summarizes current knowledge; creates a baseline for certain water quality parameters which can be used to identify future changes and as a threshold to identify future exceedances; and evaluates a cumulative effect indexing tool being used by the NWT CIMP. 
 
-[Home](home.md)
+[index](index.md)
