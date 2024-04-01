@@ -25,8 +25,8 @@ Finally, for the third objective, this project uses the water quality baseline r
 
 This project, which seeks to understand cumulative impacts to water quality in the Upper Coppermine River basin of the Northwest Territories, aligns with NWT CIMP’s vision to “watch and understand the land so it can be used respectfully forever”.
 
-<img src="CopperMineMap.png" alt="CoppermineMap" width="500" height="600" >
-<img src="IMG_8632.jpg" alt="Coppermine" width="500" height="600" >
+<img src="CopperMineMap.png" alt="CoppermineMap" width="600" height="700" >
+
 <font size = "-2"> **Figure 1.a.** Overview of the Coppermine River Basin and geological provinces. From Stantec (2015).
 
 [Index](index.md)
