@@ -559,3 +559,5 @@ deepen the understanding of the ambient baseline water quality in the Upper Copp
 <img src="figures/metals.png">
 
 **Figure 9.** Metal exceedances. A ‘-‘ symbol represents an exceedance.
+
+[Index](index.md)
