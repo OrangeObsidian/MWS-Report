@@ -53,21 +53,21 @@ Ultimately, 157 peer-reviewed papers were identified that matched the criteria i
 
 Of these 42 papers, 18 papers were based upon research located in the NWT (Figure 2). 11 papers studied the Mackenzie River Basin, one referenced the Peel Plateau, one referenced the Slave River, and seven papers specifically referenced locations in the Upper Coppermine or the Lockhart River basin, a neighboring watershed. The majority, approximately 70% of the articles, focused on climate change-related effects on water quality. The second-most common disturbance of focus was mining, followed by road building (Figure 3). The number of peer-reviewed articles on the project topic published in any given year has been increasing over time (Figure 4). Dissolved organic carbon (DOC), nitrogen (N), pH, calcium (Ca), magnesium (MG), phosphorus (P) and sulphate (SO4) were the most researched water quality parameters (Figure 5). It is apparent that there is no peer-reviewed research specifically on cumulative impacts to water quality in the Upper Coppermine, which would indicate that future studies are likely necessary for a better understanding. Fortunately, there is peer-reviewed literature available from similar regions that can offer insight into understanding and predicting cumulative impacts to water quality in the Upper Coppermine.
 
-<img src="figures/Locations.png">
+<img src="Locations.png">
 
 <font size ="-1">**Figure 2.** Percent of research papers by location.
 
-<img src="figures/Drivers.png">
+<img src="Drivers.png">
 
 <font size ="-1">**Figure 3.** Percent of research papers by driver of impact.
 
-<img src="figures/Dates.png">
+<img src="Dates.png">
 
 <font size ="-1">**Figure 4.** Number of publications per year.
 
-<img src="figures/Chemicals.png">
+<img src="Chemicals.png">
 
-<font size ="-1",dpi=300>**Figure 5.** Water quality parameters addressed by number of publications.
+<font size ="-1">**Figure 5.** Water quality parameters addressed by number of publications.
 
 <font size="+1"> The papers reviewed show that impacts to water quality from climate change in the north are caused by permafrost thaw (Morrison et al., 2019), increased forest fires (Burd et al., 2018, McEachern et al., 2009), changing precipitation patterns (Spence et al., 2015), and warmer air temperature (Morrison et al., 2019). Mining-related disturbances that have been documented to have an impact on water quality are air pollution from smelting (Michelutti et al., 2001), and water pollution (Griffiths et al., 2018) from tailings pile leaching (Sivarajah et al., 2019). Furthermore, exploration and development in the north involves road building, which creates dust, increases the thickness of the active layer and alters hydrologic connectivity (Zhu et al., 2019, Lacelle et al., 2007). All of these disturbances have been shown in the papers reviewed to impact water quality. While these papers have not focussed on cumulative effects per se, but rather on individual disturbances and their individual impacts to water quality, the combination of these disturbances would drive a cumulative impact to water quality. These general findings on climate change- and anthropogenic-induced disturbances are described in more detail in the following two sections.
 
