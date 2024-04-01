@@ -44,13 +44,13 @@ I wish to express my deepest gratitude to Anna Coles, Dion Kelly and staff from 
 
 [References](references.md)
 
-[Appendix A: Systematic Lietatire Review Results Chart](appendixA.md)
+[Appendix A: Systematic Literature Review Results Chart](appendixA.md)
 
 [Appendix B1: Box Plots](appendixB1.md)
 
 [Appendix B2: Baseline Statistics](appendixB2.md)
 
-[Appendix B3: Mann-KendalTrend Test Results](appendixB3.md)
+[Appendix B3: Mann-Kendal Trend Test Results](appendixB3.md)
 
 [Appendix B4: Annual Median Trends](appendixB4.md)
 
