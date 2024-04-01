@@ -32,8 +32,6 @@ I wish to express my deepest gratitude to Anna Coles, Dion Kelly and staff from 
 
 [Study Region](site.md)
 
-[Methodology](Methodology.md)
-
 [1.0. Chapter 1 - Literature review](Chapter1.md) 
 
 [2.0 Chapter 2 - Baseline analysis](Chapter2.md)
