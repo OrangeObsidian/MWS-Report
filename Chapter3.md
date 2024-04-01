@@ -55,7 +55,7 @@ drainage area. Vulnerability was determined based on the lake size, compared to 
 drainage area. It is based on the idea that smaller lakes will be flushed and larger lakes will take longer
 to expel contaminants.
 
-<img src="figures/ci_risk.png">
+<img src="ci_risk.png">
 
 <font size="-1">
 
@@ -115,7 +115,7 @@ Therefore, the IQR is smaller at Daring and exceedances are more likely. It is e
 monitoring will begin to show higher exceedance percentages in Desteffany and Lac de Gras, and less at Daring. In the future, observed exceedances and trends can be used to calibrate the tool’s
 predictions.
 
-<img src="figures/ci_map.png">
+<img src="ci_map.png">
 
 <font size="-1">
 
@@ -129,7 +129,7 @@ anthropogenic activity in the basin (strontium and conductivity) such as diamond
 building. Strontium increased by 223% at Lac de Gras and 103% at Desteffany. Conductivity increased
 by 94% at Lac de Gras and 45% at Desteffany.
 
-<img src="figures/trend_table.png">
+<img src="trend_table.png">
 
 <font size="-1">
 
