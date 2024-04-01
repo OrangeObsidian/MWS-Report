@@ -3,7 +3,7 @@
 
 # Study Region
 
-This section describes the geographical and geological attributes of the Upper Coppermine, as well as the anthropogenic and natural activity that influence and control its water quality. 
+This section describes the geographical and geological attributes of the Upper Coppermine, as well as the anthropogenic and natural activity that influence and control it's water quality. 
 
 **Geography and Geology**
 
