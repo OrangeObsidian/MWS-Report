@@ -178,7 +178,7 @@ due to their low buffering capacity. Highly significant increasing trends (p<0.0
 acidic) in pH were found for Daring (r2 = 0.56), Desteffany (r2 = 0.65) and Lac de Gras (r2 = 0.77). No
 significant trends in pH were observed at Rocknest.
 
-<img src="figures/Summary_table.png">
+<img src="Summary_table.png">
 
 <font size="-1"> **Table 6.** Summary table of chosen lakes in the Upper Coppermine and their corresponding upper and lower baseline thresholds for each
 parameter of interest. ‘-‘ represent parameters that exceeded the acceptable percentage of samples <DL.
@@ -197,7 +197,7 @@ Median+2MAD method to determine the upper threshold, which was calculated to be 
 significant increasing trends (p<0.0025) are seen at Desteffany (r2 = 0.68) and Lac de Gras (r2 = 0.86)
 (Table 7).
 
-<img src="figures/Trends.png">
+<img src="Trends.png">
 
 <font size="-1"> **Table 7.** Trend results for each lake and parameter during the spring freshet, open water, under ice season, and annual median. Upward
 pointing arrows indicate significantly increasing trends and downward pointing arrows indicate significantly decreasing trends. A ‘-‘ symbol indicates that
@@ -540,23 +540,23 @@ the Lac de Gras area. Monitoring should be continued for the parameters and lake
 exceedance trends in the last 3 years. Finally, traditional and local knowledge should be used to help
 deepen the understanding of the ambient baseline water quality in the Upper Coppermine.
 
-<img src="figures/majorions.png">
+<img src="majorions.png">
 
 <font size="-1">
 
 **Figure 6.** Major ion exceedances. A ‘-‘ symbol represents an exceedance.
 
 
-<img src="figures/nutrients.png">
+<img src="nutrients.png">
 
 **Figure 7.** Nutrient exceedances. A ‘-‘ symbol represents an exceedance.
 
 
-<img src="figures/physicals.png">
+<img src="physicals.png">
 
 **Figure 8.** Physical parameter exceedances. A ‘-‘ symbol represents exceedance.
 
-<img src="figures/metals.png">
+<img src="metals.png">
 
 **Figure 9.** Metal exceedances. A ‘-‘ symbol represents an exceedance.
 
