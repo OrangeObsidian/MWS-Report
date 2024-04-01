@@ -44,17 +44,17 @@ I wish to express my deepest gratitude to Anna Coles, Dion Kelly and staff from 
 
 [References](references.md)
 
-[Appendix A](appendixA.md)
+[Appendix A: Systematic Lietatire Review Results Chart](appendixA.md)
 
-[Appendix B1](appendixB1.md)
+[Appendix B1: Box Plots](appendixB1.md)
 
-[Appendix B2](appendixB2.md)
+[Appendix B2: Baseline Statistics](appendixB2.md)
 
-[Appendix B3](appendixB3.md)
+[Appendix B3: Mann-KendalTrend Test Results](appendixB3.md)
 
-[Appendix B4](appendixB4.md)
+[Appendix B4: Annual Median Trends](appendixB4.md)
 
-[Appendix B5](appendixB5.md)
+[Appendix B5: Historical Baseline Threshold Exceedances](appendixB5.md)
 
 
 
