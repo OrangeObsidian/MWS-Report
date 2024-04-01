@@ -27,6 +27,6 @@ This project, which seeks to understand cumulative impacts to water quality in t
 
 <img src="CopperMineMap.png" alt="CoppermineMap" width="600" height="700" >
 
-<font size = "-6"> **Figure 1.a.** Overview of the Coppermine River Basin and geological provinces. From Stantec (2015).
+<font size = "-6" **Figure 1.a.** Overview of the Coppermine River Basin and geological provinces. From Stantec (2015).>
 
 [Index](index.md)
