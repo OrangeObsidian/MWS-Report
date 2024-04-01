@@ -29,3 +29,4 @@ This project, which seeks to understand cumulative impacts to water quality in t
 
 <font size = "-2"> **Figure 1.a.** Overview of the Coppermine River Basin and geological provinces. From Stantec (2015).
 
+[Index](index.md)
