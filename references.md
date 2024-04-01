@@ -215,3 +215,5 @@ Zajdlik. (2016). Detecting Cumulative Aquatic Effects in Lac de Gras. Zajdlik & 
 
 Zhu, L., Anello, R., Ruhland, K. M., Pisaric, M. F. J., Kokelj, S. V., Prince, T., & Smol, J. P. (2019). Impacts of Road Dust on Small Subarctic Lake
 Systems. Arctic, 72(4), 434-457. doi:10.14430/arctic69527
+
+[Index](index.md)
