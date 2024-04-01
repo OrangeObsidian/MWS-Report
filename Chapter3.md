@@ -160,3 +160,5 @@ disturbances. Overall, the preliminary analysis of the cumulative effect index t
 water quality data shows agreement with observed data and potential as an effective predictive tool.
 Moving forward, the three year sampling program in the Daring Lake sub-basin will help perfect this
 tool further.
+
+[Index](index.md)
