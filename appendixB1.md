@@ -105,3 +105,5 @@ Black dots are outliers.
 <img src="UraniumBox.png">
   
 <font size="-1"> **Figure 35. Boxplot of total uranium at Daring, Desteffany, Lac de Gras and Rocknest Lake.** The red line indicates the median, and the green dot indicates the mean, for each lake. The whiskers represent 1.5 x the interquartile range +/- Q3 and Q1. Black dots are outliers. The green dashed line represents the CCME FAL WQL.
+
+[Index](index.md)
