@@ -1,4 +1,7 @@
-<font size="+1">**2.0. Chapter 2 - Baseline analysis of chosen water quality parameters in the Upper Coppermine River Basin.**
+---
+---
+
+# 2.0. Chapter 2 - Baseline analysis of chosen water quality parameters in the Upper Coppermine River Basin.
 
 **2.1. Summary**
 
