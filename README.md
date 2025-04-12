@@ -15,7 +15,7 @@
 <p>I wish to express my deepest gratitude to Anna Coles, Dion Kelly and staff from the Northwest Territories Cumulative Impact Monitoring Program in the Government of the Northwest Territories, and Andrew Ireson from the Global Institute of Water Security, University of Saskatchewan, for their continued support and expert knowledge. This project was funded by the Northwest Territories Cumulative Impact Monitoring Program (NWT CIMP).</p>
 
 [Executive Summary](execsum.md)
-<p><a href="intro.md">Introduction</a></p>
+
 <p><a href="site.md">Study Region</a></p>
 <p><a href="Chapter1.md">1.0. Chapter 1 - Literature review</a> </p>
 <p><a href="Chapter2.md">2.0 Chapter 2 - Baseline analysis</a></p>
