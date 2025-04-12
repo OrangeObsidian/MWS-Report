@@ -16,7 +16,7 @@
 
 [Executive Summary](execsum.md)
 
-<p><a href="site.md">Study Region</a></p>
+
 <p><a href="Chapter1.md">1.0. Chapter 1 - Literature review</a> </p>
 <p><a href="Chapter2.md">2.0 Chapter 2 - Baseline analysis</a></p>
 <p><a href="Chapter3.md">3.0 Chapter 3 - Cumulative Effect Indexing Tool</a></p>
