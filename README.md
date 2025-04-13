@@ -1,4 +1,3 @@
-<h2 id="-">---</h2>
 <h1 id="exploring-cumulative-impacts-to-water-quality-in-the-upper-coppermine-river-basin-nwt">EXPLORING CUMULATIVE IMPACTS TO WATER QUALITY IN THE UPPER COPPERMINE RIVER BASIN, NWT</h1>
 <div align="center">
 
