@@ -23,7 +23,7 @@
 
 ### 📎 Navigation Links (Fixed)
 
-```md
+md
 [Executive Summary](./execsum)  
 [Introduction](./intro)  
 [Chapter 1](./Chapter1)  
