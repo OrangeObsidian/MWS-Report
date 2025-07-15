@@ -1,5 +1,8 @@
 ---
+layout: default
+title: Executive Summary
 ---
+
 
 # Executive Summary
 
