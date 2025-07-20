@@ -20,11 +20,11 @@ Finally, a subsequent even broader third search was conducted using the same bro
 
 For all iterations of the search, the papers were then skimmed for false positives and relevance to the research topic. False positives were such articles that contained one or more required search terms in the title, abstract or keywords, but not in a context that was relevant to the research topic. All irrelevant articles were omitted. Each relevant paper was then further analyzed and information on each paper was extracted. The extracted information includes author, year published, study location, water quality parameters studied, driver of water quality change, and cumulative effect (Appendix A).
 
-| CATEGORY     | SEARCH TERM                                                                                                                     |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| 1.    Water Quality | “water quality” OR “water chemistry”                                                                                            |
-| 2.    Location      | “Coppermine River*” OR “Coppermine watershed” OR “Lac de Gras” OR “Daring Lake” OR “Point Lake” OR “Slave Geological Province”  |
-| 3.    Impacts       | “cumulative effect*” OR “cumulative impact*”                                                                                    |
+| CATEGORY        | SEARCH TERM                                                                                                                 |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 1. Water Quality | "water quality" OR "water chemistry"                                                                                        |
+| 2. Location     | "Coppermine River*" OR "Coppermine watershed" OR "Lac de Gras" OR "Daring Lake" OR "Point Lake" OR "Slave Geological Province" |
+| 3. Impacts      | "cumulative effect" OR "cumulative impact"                                                                                  |
 
 **Table 1.** First search iteration: specific to the Coppermine area and cumulative impacts.
 
