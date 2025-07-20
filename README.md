@@ -17,13 +17,14 @@
 
 ## [Acknowledgements](#acknowledgements)
 
-<p>I wish to express my deepest gratitude to Anna Coles, Dion Kelly, ...</p>
+<p>I wish to express my deepest gratitude to Anna Coles, Dion Kelly and staff from the Northwest
+Territories Cumulative Impact Monitoring Program in the Government of the Northwest Territories,
+and Andrew Ireson from the Global Institute of Water Security, University of Saskatchewan, for their
+continued support and expert knowledge. This project was funded by the Northwest Territories
+Cumulative Impact Monitoring Program (NWT CIMP).</p>
 
 ---
 
-### 📎 Navigation Links (Fixed)
-
-```md
 [Executive Summary](./execsum)  
 [Introduction](./intro)  
 [Chapter 1](./Chapter1)  
