@@ -26,7 +26,7 @@ For all iterations of the search, the papers were then skimmed for false positiv
 | 2.    Location      | “Coppermine River*” OR “Coppermine watershed” OR “Lac de Gras” OR “Daring Lake” OR “Point Lake” OR “Slave Geological Province”  |
 | 3.    Impacts       | “cumulative effect*” OR “cumulative impact*”                                                                                    |
 
-<font size="-2"> **Table 1.** First search iteration: specific to the Coppermine area and cumulative impacts.
+**Table 1.** First search iteration: specific to the Coppermine area and cumulative impacts.
 
 | CATEGORY            | SEARCH TERM                                                                                                                                                                                                                                       |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -34,7 +34,7 @@ For all iterations of the search, the papers were then skimmed for false positiv
 | 2.    Location      | “Taiga shield” OR “Coppermine River*” OR “Coppermine watershed” OR “Northwest Territories” OR subarctic OR tundra OR “Lac de Gras” OR “Daring Lake” OR “Point Lake” OR Yellowknife OR “Slave Geological Province” OR NWT OR “northern latitude*”  |
 | 3.    Impacts       | “cumulative effect*” OR “cumulative impact*”                                                                                                                                                                                                      |
 
-<font size="-2"> **Table 2.** Second search iteration: non-local, but still cumulative impacts.
+**Table 2.** Second search iteration: non-local, but still cumulative impacts.
 
 | CATEGORY            | SEARCH TERM                                                                                                                                                                                                                                       |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
