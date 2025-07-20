@@ -1,26 +1,5 @@
 # References
 
-Abbott et al. (2015)
-
-Abbott, B. W., Jones, J. B., Godsey, S. E., Larouche, J. R., & Bowden, W. B. (2015). Patterns and persistence of hydrologic carbon and nutrient export from collapsing upland permafrost. Biogeosciences, 12(12), 3725–3740. https://doi.org/10.5194/bg-12-3725-2015
-
-Bailey et al. (2013)
-
-Bailey, B. L., Smith, L. J. D., Blowes, D. W., Ptacek, C. J., Smith, L., & Sego, D. C. (2013). The Diavik Waste Rock Project: Persistence of contaminants from blasting agents in waste rock effluent. Applied Geochemistry, 36, 256–270. https://doi.org/10.1016/j.apgeochem.2012.04.008
-
-Balasubramaniam et al. (2015)
-
-Balasubramaniam, A. M., Hall, R. I., Wolfe, B. B., Sweetman, J. N., & Wang, X. W. (2015). Source water inputs and catchment characteristics regulate limnological conditions of shallow subarctic lakes (Old Crow Flats, Yukon, Canada). Canadian Journal of Fisheries and Aquatic Sciences, 72(7), 1058–1072. https://doi.org/10.1139/cjfas-2014-0340
-
-Blaen et al. (2014)
-
-Blaen, P. J., Milner, A. M., Hannah, D. M., Brittain, J. E., & Brown, L. E. (2014). Impact of changing hydrology on nutrient uptake in high Arctic rivers. River Research and Applications, 30(9), 1073–1083. https://doi.org/10.1002/rra.2706
-
-Bond & Carr (2018)
-
-Bond, M. J., & Carr, J. (2018). Permafrost thaw and implications for the fate and transport of tritium in the Canadian north. Journal of Environmental Radioactivity, 192, 295–311. https://doi.org/10.1016/j.jenvrad.2018.07.006
-
-
 <font size="-1">
 
 Abbott, B. W., Jones, J. B., Godsey, S. E., Larouche, J. R., & Bowden, W. B. (2015). Patterns and persistence of hydrologic carbon and nutrient export from collapsing upland permafrost. Biogeosciences, 12(12), 3725-3740. doi:10.5194/bg-12-3725-2015
